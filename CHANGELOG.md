@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.0](https://github.com/googleapis/python-secret-manager/compare/v2.8.0...v2.9.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#240](https://github.com/googleapis/python-secret-manager/issues/240)) ([4056e97](https://github.com/googleapis/python-secret-manager/commit/4056e97028a638934de9deea68d29e523fa45a1f))
+
 ## [2.8.0](https://www.github.com/googleapis/python-secret-manager/compare/v2.7.3...v2.8.0) (2021-11-08)
 
 
